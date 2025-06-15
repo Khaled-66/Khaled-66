@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">👨‍💻 About Me
+<p align="left">
 Machine Learning and Computer Vision enthusiast with a strong focus on football analytics and backend development.
 Skilled in building intelligent systems using Python, PyTorch, Flask, and SQL, with experience in data processing, REST APIs, and visualization tools.
 Combining deep learning and backend engineering to create impactful, data-driven applications.
