@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khaled</h1>
-- 🌱 I’m currently learning **deep learning, Pytorch**
-
 - 📫 How to reach me **ashrafkhaled860@gmail.com**
-
 - 📄 Know about my experiences [https://drive.google.com/file/d/1cm9aOvnU8FqV_JEn-wnjfFMAwJmWMtWN/view?usp=sharing](https://drive.google.com/file/d/1cm9aOvnU8FqV_JEn-wnjfFMAwJmWMtWN/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
