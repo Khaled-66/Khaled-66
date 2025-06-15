@@ -30,7 +30,11 @@
 
 ###
 
-<p align="left">Hi, I’m Khaled!<br><br>🧠 Passionate about Machine Learning, Deep Learning, and Computer Vision<br><br>⚽ Exploring the intersection of football analytics and AI, turning stats into smart insights<br><br>🛠 Skilled in backend development using Flask, SQL, and REST APIs — recently built and deployed a custom football API on Vercel<br><br>📊 Built a full football analytics pipeline: web scraped 7 seasons of data, handled missing values, and visualized trends with Plotly<br><br>🔧 Tools I work with: Python, PyTorch, Flask, SQLAlchemy, Git/GitHub, Postman, Pandas, NumPy<br><br>🚀 Currently learning PyTorch, model deployment, and improving my understanding of CNNs and transfer learning<br><br>💻 Also enjoy problem-solving on Codeforces and building real-world backend/data projects<br><br>🎯 Long-term goal: Become a Machine Learning Engineer with strong backend and systems skills — especially in CV</p>
+<p align="left">👨‍💻 About Me
+Machine Learning and Computer Vision enthusiast with a strong focus on football analytics and backend development.
+Skilled in building intelligent systems using Python, PyTorch, Flask, and SQL, with experience in data processing, REST APIs, and visualization tools.
+Combining deep learning and backend engineering to create impactful, data-driven applications.
+Driven by a passion for AI, clean architecture, and turning real-world problems into smart solutions.</p>
 
 ###
 
